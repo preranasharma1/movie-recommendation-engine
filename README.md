@@ -1,0 +1,2 @@
+# movie-recommendation-engine
+In this project, I have made web application demonstrating the role of NEAREST NEIGHBOUR ALGORITHM in the web and music streaming apps. I used the Content Recommendation Engine to build this web application i.e. in this the movie will be recommended on the basis of similar genres. In short, we can say that it is a content based movie recommender system using cosine similarity. I used two datasets in it which were taken from TMDB website.
