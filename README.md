@@ -4,6 +4,7 @@ In this project, I have made web application demonstrating the role of NEAREST N
 There are three types of recommendation engines:
 
 -Content based recommendation : This is a content based filtering.
+
 -Collabrative based recommendation : In this filtering, content is filtered on the basis of the similar choices of users.
 -Hybrid recommendation : It is the combination of Content based filtering and Collabrative based filtering.
 
